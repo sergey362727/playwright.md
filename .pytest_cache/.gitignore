@@ -1,6 +1,10 @@
-venv/
-**/venv/
+# Кэш Python и Pytest
+__pycache__/
 .pytest_cache/
-**/.pytest_cache/
-**/__pycache__/
 *.pyc
+
+# Логи и отчеты Playwright (если появятся)
+test-results/
+playwright-report/
+blob-report/
+playwright/.local-browsers/
