@@ -1,0 +1,4 @@
+[
+  "playwright/test_example.py::test_main_navigation",
+  "playwright/test_example.py::test_main_navigation[chromium]"
+]
